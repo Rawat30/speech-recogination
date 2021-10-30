@@ -1,7 +1,7 @@
 # speech-reco
 first program
 
-@Devilalok
+ashutosh rawat 
 Btech (cse)
 
 
